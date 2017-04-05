@@ -1,0 +1,2 @@
+# LJ Code 201 - Day 2
+So far I have learned how to navigate the terminal. One of my roommates is a software engineer and every time I'd see him working in his terminal the thing didn't make any sense so I am pretty excited that were learning the terminal. Also javascript I love god damn. I don't know something about interactive interfaces keep me interested. God I love the internet. What I am most looking for is how to become a code ninja cus that sounds cool. 
