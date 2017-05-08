@@ -1,0 +1,2 @@
+# Code 201 Learning Journal Day 18
+Today I worked on adding a login form for our index page and making it linkable to another one of our pages upon submission. Also I added parameters to the login so that the username and password can only be certain character lengths and it also checks to see if the username and password you inputted matches the users data stored in admin page and will say if its a valid user and or password. Tomorrow we are working on styling all our pages then after we should be good. 
